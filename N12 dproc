@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Dasaran կրթական ծրագիր</title>
+        <meta name="google-site-verification" content="7SZ81pA-pVpWhSuAIJHsShGdqc6Ml0C7ZqMEhUcvdY4" />
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<meta name="og:title" content="«Dasaran.am» կրթական ծրագրի առաքելությունն է հանրակրթական դպրոցների արդիականացման և տեղեկատվական տեխնոլոգիաների ներդրման միջոցով ստեղծել կրթության նոր որակ:" >
+<meta name="og:url" content="http://www.dasaran.am" >
+<meta name="og:image" content="http://www.dasaran.am/static/img/fb.png" >
+<meta name="og:site_name" content="www.dasaran.am" >        <script type="text/javascript">configs = {"realtimeServer":"http:\/\/www.dasaran.am","pjaxEnabled":"1"}</script><script type="text/javascript" src="/static/js/libs/jquery.min.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/jquery-ui.min.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/jquery.qtip.min.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/jquery.colorbox.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/bootstrap.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/bootstrap-fileupload.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/underscore-min.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/jquery.selectbox.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/jquery.tipsy.js?version=56&6"></script><script type="text/javascript" src="/static/js/dasutils/RowManager.js?version=56&6"></script><script type="text/javascript" src="/static/js/common.js?version=56&6"></script><script type="text/javascript" src="/static/js/validators.js?version=56&6"></script><script type="text/javascript" src="/static/js/functions.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/jquery.available.min.js?version=56&6"></script><script type="text/javascript" src="/static/js/bootbox.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/fileupload/jquery.fileupload.js?version=56&6"></script><script type="text/javascript" src="/static/js/libs/jquery.form.js?version=56&6"></script><script type="text/javascript" src="/static/js/Interaction.js?version=56&6"></script><script type="text/javascript" src="/static/js/dasutils/Feedback.js?version=56&6"></script><script type="text/javascript" src="/static/js/base64.js?version=56&6"></script><script type="text/javascript" src="/static/js/jquery.countdown.js?version=56&6"></script><script type="text/javascript" src="/static/js/jquery.countdown-hy.js?version=56&6"></script><script type="text/javascript" src="/static/js/matyan.js?version=56&6"></script><script type="text/javascript" src="/static/js/front.js?version=56&6"></script><script type="text/javascript" src="/static/js/Dasaran.js?version=56&6"></script><script type="text/javascript" src="/static/js/Dasaran/Autocomplete.js?version=56&6"></script><script type="text/javascript" src="/static/js/main.js?version=56&6"></script><script type="text/javascript" src="/static/js/old_main.js?version=56&6"></script><script type="text/javascript" src="/static/js/matyan-mailing.js?version=56&6"></script><script type="text/javascript" src="https://www.dasaran.am/socket.io/socket.io.js"></script><script type="text/javascript" src="/static/js/modules/Realtime.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Auth.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Roster.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Message.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/StanzaRouter.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Handler/Presence.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Handler/Message.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Handler/Notification.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Handler/Duel.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Handler/Invitation.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Handler/Invitation_accepted.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Handler/Invitation_declined.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Ui.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Ui/Chat.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Ui/User.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Ui/Notifications.js?version=56"></script><script type="text/javascript" src="/static/js/modules/Realtime/Ui/Invitation.js?version=56"></script>		<script>
+        if ($.browser.msie && $.browser.version == 10) {
+        	$("html").addClass("ie10");
+		}
+        </script>
+                <link href="/static/css/libs/bootstrap.css?version=56&1" media="screen" rel="stylesheet" type="text/css" /><link href="/static/css/libs/jquery-ui.min.css?version=56&1" media="screen" rel="stylesheet" type="text/css" /><link href="/static/css/bootstrap_override.css?version=56&1" media="screen" rel="stylesheet" type="text/css" /><link href="/static/css/Feedback.css?version=56&1" media="screen" rel="stylesheet" type="text/css" /><link href="/static/css/libs/jquery.selectbox.css?version=56&1" media="screen" rel="stylesheet" type="text/css" /><link href="/static/css/reset.css?version=56&1" media="screen" rel="stylesheet" type="text/css" /><link href="/static/css/960.css?version=56&1" media="screen" rel="stylesheet" type="text/css" /><link href="/static/css/styles.css?version=56&1" media="screen" rel="stylesheet" type="text/css" />            </head>
+    <body id="front" class="sidebar-count-0 module-matyan controller-teacher action-print-password header" >
+
+	        <div id="main_content">
+	
+<style>
+table {margin-left:10px;border:1px solid #BFBFBF;
+			width:800px;
+	}
+table tr {border:1px solid #BFBFBF;}
+table tr {border-bottom:2px solid #BFBFBF;}
+table tr td {width:400px;margin-left:1px;border:1px solid #BFBFBF;text-align:center;line-height:20px;border-right:2px solid #BFBFBF;padding-left:15px;padding-right:15px;}
+strong {font-weight:normal;font-size:9px;}
+
+</style>
+
+	<div id="printdiv" style="float:left;padding-left: 25px;padding-top: 19px;color:black;font-weight: bold;line-height: 30px;">
+		<img style="float:left;padding-right: 21px;" src="/static/img/matyan_icons/info.png"/>
+		<div style="float:left;margin-top: 12px;">Ծածկանուն/ծածկագրերը տպելու համար սեղմեք «Տպել» կոճակը:</div>
+		<input style="float:left;margin-top: 14px;margin-left: 20px;" type="button" id="printbutt" value="Տպել" onclick="window.print();">
+	</div>
+	<div style="clear:both;"></div>
+<table cellpadding="0" cellspacing="0" style="margin-left: 110px">
+	<tr>
+			
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Աբգարյան Գոհար Լևոնի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 5218421 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;a185ac522f				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Աբրահամյան Հասմիկ Արտյոմի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4223109 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;300995533e				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Աղաջանյան Աննա Միսակի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 7532449 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;117893e0c5				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Ամիրջանյան Սամվել Միխաիլի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6556414 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;3857644387				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Ասլանյան Գրիգորի Մարտինի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6954046 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;8ab9ebe8c3				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Ավետիսյան Մարիետտա Վասիլի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4551468 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;f634929867				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Ավչյան Լիլիթ Արտավազդի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 7468847 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;8e99929f31				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Արդինյան Մարիամ Վրեժի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6050060 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;fbb09d71aa				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Արզումանյան Տիգրանուհի Հենզելի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 3735357 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;1e8388d219				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Արշակունու Հեղինե Տարիելի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6885645 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;61d6884eb8				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Բաբաջանյան Ալիսա Սամվելի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 5115410 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;86603a1c30				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Բաղդասարյան Սաթենիկ Ռաֆայելի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4677281 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;82891857a9				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Գալստյան Գայանե Սուրենի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6282060 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;61f721da14				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Դավթյան Մարինա Նորիկի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 3930405 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;022b67bbcb				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Երիցյան Ռիմա Սպարտակի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4205540 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;85cb3ff11f				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Թադևոսյան Մարինե Նվերի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4557937 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;d94bccb320				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Խալիլյան Անահիտ Ալեքսանդրի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6377680 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;74c8ba545e				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Խանամիրյան Լիանա Վարդգեսի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4643071 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;2dcb6c81e0				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Խաչիկյան Անժելյա Ավետիսի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4731365 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;e7b43915af				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Կարապետյան Լուսինե Աշոտի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6239046 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;e3d4b16f55				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Հակոբյան Նելլի Գեորգիի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 7157177 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;b3ecb4a143				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Հայդոյան Գյուլնարա Միխաիլի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4458127 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;b3d06563cf				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Հարությունյան Աշխեն Նորայրի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4994408 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;de9c124159				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Հովհաննիսյան Գոհար Լևոնի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 7004803 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;630cc89679				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Հովհաննիսյան Թերեզա Հենրիկի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4919508 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;58bf8dd636				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մաճկալյան Արփենիկ Վազգենի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 5057648 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;a4964d79f9				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մարգարյան Մարինե Արշակի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 3767785 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;3e833e896f				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մարգարյան Հրաչյա Գյորգիի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6022066 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;e7098799af				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մեսրոպյան Անահիտ Խաչիկի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6016269 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;33eb125b4c				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մինասյան Էմմա Խաչատուրի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4966224 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;deb9ff84aa				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մխիթարյան Անահիտ Կառլենի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 3696921 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;170e65107e				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մկրտչյան Ռիտա Հարությունի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 5580240 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;452e2d9548				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մկրտչյան Մարիետտա Ռաֆիկի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4320094 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;aec02e14b2				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մնացականյան Սուսաննա Սուրենի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4102547 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;def24d77dc				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Մնացականյան Մելանյա Պապիկի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4474029 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;f4e8568024				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Ներսեսյան Մարիետա Բագրատի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4727466 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;b9a7d3c579				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Նիկողոսյան Նելլի Տիգրանի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6292941 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;d3e1335f94				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Պարոնյան Սևանուշ Մարտունիկի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 3949493 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;a41859913c				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Պողոսյան Նարինե Սերյոժայի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4336877 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;f92e41af1c				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Պոչինսկի Վալերի Իվանի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6301533 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;e4b85899a5				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Ջագեյան Լիլիթ Վյաչեսլավի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 7225997 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;68b654f29a				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Սամվելյան Գայանե Կիմի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 5830194 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;218580b405				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Սամվելյան Նարա Եղիազարի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4585852 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;aa602e9185				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Սարոյան Թամարա Վլադիմիրի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4809612 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;53feea1f09				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Ստեփանյան Վլադիմիր Նապոլեոնի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4138761 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;1c0f07ef4a				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Վարդանյան Նաիրա Բաբկենի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 6599764 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;1cb469a311				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Վարդանյան Գոհար Աշոտի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 7199331 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;18c880c4f3				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Տիգրանյան Սուսաննա Արտավազդի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 4255174 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;095c87fe3c				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+										</tr><tr>
+						
+				<td>				
+					<div  style="position:relative;float:left;width:0px;height:0px;font-weight: bold;">
+						www.dasaran.am/admin
+					</div>
+					<div style="float:right;">Հեռ.՝ 060 75 79 69<br></div>
+					<div style="clear:both;"></div>
+					<span style="float:left;">Օհանյան Ինեսսա Մարտիկի</span>
+					<div style="clear:both;"></div>
+					<div style="float:left;text-align:left;">
+						Ծածկանուն` 5470008 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+						<div class="aaclear"></div>
+						Ծածկագիր`&nbsp;353ca4c7be				</div>
+				<div style="float:right;text-align:left;padding-left:5px;">
+					Դպր` ք. Երևանի թիվ 12 հմ/դ<br>
+				</div>
+				</td>		
+						</tr>
+</table>
+
+
+<script>
+var title = 'Ցանկանո՞ւմ եք տպել ու հաստատել այս տվյալները.';
+var t;
+function submitteacherclasspasswords(school_id){
+		$.confirm({
+			'title'		: title,
+			'message'	: 'Ցանկանո՞ւմ եք հաստատել և տպել այս տվյալները.',
+			'buttons'	: {
+				'Այո'	: {
+					'class'	: 'blue',
+					'action': function(){
+						clearInterval(t);
+						t = setTimeout(function(){
+							$.ajax({
+								url: "/admin/action/saveteachersgenpass/?school_id="+school_id,
+								type: "POST",
+								school_id: school_id,
+								success:function(res) {
+									$('#confirmOverlay').hide();
+									window.print();
+								},
+								dataType:"html"
+							})
+						},700);
+					}
+				},
+
+				'Ոչ'	: {
+					'class'	: 'gray',
+					'action': function(){}	// Nothing to do in this case. You can as well omit the action property.
+				}
+			}
+		});
+}
+function submitteacherpassword(user_id){
+		$.confirm({
+			'title'		: title,
+			'message'	: 'Ցանկանո՞ւմ եք հաստատել և տպել այս տվյալները.',
+			'buttons'	: {
+				'Այո'	: {
+					'class'	: 'blue',
+					'action': function(){
+						$.ajax({
+							url: "/teacher/save-password/teacher_id/"+user_id,
+							type: "GET",
+							user_id: user_id,
+							success:function(res) {
+								$('#confirmOverlay').hide();
+								window.print();
+							},
+							dataType:"html"
+						})
+					}
+				},'Հաստատել'	: {
+					'class'	: 'gray2',
+					'action': function(){
+						$.ajax({
+							url: "/teacher/save-password/teacher_id/"+user_id,
+							type: "GET",
+							user_id: user_id,
+							success:function(res) {
+								$('#confirmOverlay').hide();
+							},
+							dataType:"html"
+						})
+					}
+				},
+				'Ոչ'	: {
+					'class'	: 'gray',
+					'action': function(){}	// Nothing to do in this case. You can as well omit the action property.
+				}
+			}
+		});
+}
+$('#foo').prepend('Print this page'); 
+</script>
+
+
+<style>
+	#confirmButtons{
+		width: 295px;
+	}
+</style>
+
+
+ <style type="text/css">
+   @media print {
+#printbutt{
+	display:none;
+}
+#printdiv{
+	display:none;
+}
+.table{
+	page-break-after: always;
+}
+   } 
+  </style>
+	
+	<div id="go-top" onClick="return Common.goTop();"></div>
+<div class="clear-block"></div>
